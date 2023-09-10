@@ -1,20 +1,3 @@
-[### Hi there 👋
-
-<!--
-**7Priyanshu9/7Priyanshu9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-](https://www.shutterstock.com/shutterstock/photos/2159291853/display_1500/stock-vector-binary-code-long-banner-byte-data-programmer-matrix-script-digital-stream-pattern-computer-2159291853.jpg
 <h1 align="center">Hi 👋, I'm Priyanshu Paul</h1>
 <h3 align="center">Aspiring Erudite|| Results-driven || AI enthusiast || Java || Data Structures || Leadership experience || Self learning Developer|| Sketching||</h3>
 <img align="right" alt ="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e470hmmbxsnrrdq0qr7j3fxvwg1ndg0wi2jivlv64yu&ep=v1_gifs_search&rid=200.webp&ct=g">
@@ -23,13 +6,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7priyanshu9" alt="7priyanshu9" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript||React||NextJs**
+- 🌱 I’m currently learning **JavaScript || React || NextJs**
 
-- 💬 Ask me about **Frontend||AI**
+- 💬 Ask me about **Frontend || AI**
 
 - 📫 How to reach me **Priyanshupaul32@gmail.com**
 
-- ⚡ Fun fact **I've coded in multiple programming languages, and I can comfortably switch between them like a multilingual programmer.||I enjoy giving tech talks or mentoring others, sharing my passion for programming with a wider audience ||| I once coded an entire program in a single caffeine-fueled all-nighter.**
+- ⚡ Fun fact **I've coded in multiple programming languages, and I can comfortably switch between them like a multilingual programmer. || I enjoy giving tech talks or mentoring others, sharing my passion for programming with a wider audience  || I once coded an entire program in a single caffeine-fueled all-nighter.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
