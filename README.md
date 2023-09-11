@@ -24,6 +24,7 @@
 <a href="https://twitter.com/s1nister79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s1nister79" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyanshu paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu paul" height="30" width="40" /></a>
 <a href="https://fb.com/priyanshu paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu paul" height="30" width="40" /></a>
+<a href="https://instagram.com/priyanshu79__official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshu79__official" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshu_97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu_97" height="30" width="40" /></a>
 </p>
 
