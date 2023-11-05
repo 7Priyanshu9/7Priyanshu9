@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/s1nister79" target="blank"><img src="https://img.shields.io/twitter/follow/s1nister79?logo=twitter&style=for-the-badge" alt="s1nister79" /></a> </p>
 
-- 🔭 I’m currently working on **Universal Translator**
+- 🔭 I’m currently working on **Universal Language Translator**
 
 - 🌱 I’m currently learning **JavaScript||React||NextJs**
 
