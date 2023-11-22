@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Erudite|| Results-driven || AI enthusiast || Java || Data Structures || Leadership experience || Self learning Developer|| Sketching||</h3>
 
 <p align="center">
- <img src="https://unsplash.com/photos/black-remote-control-on-red-table-6sAl6aQ4OWI" alt="" width="500" height="200">
+ <img src="bg.jpg" alt="Background " width="500" height="200">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7priyanshu9&label=Profile%20views&color=0e75b6&style=flat" alt="7priyanshu9" /> </p>
