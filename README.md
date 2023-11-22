@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Erudite|| Results-driven || AI enthusiast || Java || Data Structures || Leadership experience || Self learning Developer|| Sketching||</h3>
 
 <p align="center">
-   <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG"  width="500" height="200" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG">via GIPHY</a></p>"
+ <img src="https://unsplash.com/photos/black-remote-control-on-red-table-6sAl6aQ4OWI" alt="" width="500" height="200">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7priyanshu9&label=Profile%20views&color=0e75b6&style=flat" alt="7priyanshu9" /> </p>
