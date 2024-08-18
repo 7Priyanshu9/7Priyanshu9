@@ -1,16 +1,4 @@
-<style>
-        .image-container {
-            border: 2px solid #3498db; /* Blue border */
-            padding: 10px;
-            border-radius: 8px;
-            background-color: #ecf0f1; /* Light grey background */
-        }
 
-        .image-container img {
-            border: 2px solid #e74c3c; /* Red border for the image */
-            border-radius: 8px;
-        }
-    </style>
 <h1 align="center">Hi 👋, I'm Priyanshu Paul</h1>
 <h3 align="center">Aspiring Erudite|| Results-driven || AI enthusiast || Java || Data Structures || Leadership experience || Self learning Developer|| Sketching||</h3>
 
